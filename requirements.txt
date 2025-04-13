@@ -1,0 +1,8 @@
+torch==2.2.1
+gradio==4.10.0
+transformers==4.39.3
+pandas==2.2.1
+matplotlib==3.8.4
+seaborn==0.13.2
+emoji==2.10.1
+google-api-python-client==2.121.0
